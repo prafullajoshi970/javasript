@@ -1,9 +1,3 @@
-let arr=[];
-for(let i=0;i<=9;i++){
-    arr[i]=i+2
-}
-console.log(arr)
-
 
 for(let i=1;i<=100;i++){
  if(i%15==0){console.log("Fizz-buzz")}
